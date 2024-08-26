@@ -1,1 +1,3 @@
 La vie est belle
+avec git et la fusion
+ces deux lignes sont à vérifier après fusion
